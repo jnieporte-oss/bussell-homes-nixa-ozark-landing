@@ -1,0 +1,22 @@
+[
+  {
+    "name": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "violations": [],
+    "passes": 52,
+    "incomplete": 3
+  },
+  {
+    "name": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "violations": [],
+    "passes": 53,
+    "incomplete": 3
+  }
+]

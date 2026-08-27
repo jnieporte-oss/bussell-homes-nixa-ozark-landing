@@ -1,0 +1,14 @@
+/assets/ashland.jpg
+/assets/bbb-award.png
+/assets/bonnie.jpg
+/assets/claire.jpg
+/assets/emerson.jpg
+/assets/equal-housing.png
+/assets/erica.jpg
+/assets/forest-aerial.webp
+/assets/forest-exterior.jpg
+/assets/forest-home.jpg
+/assets/logo.png
+/assets/skylar.jpg
+/assets/valley-aerial-2.jpg
+/assets/valley-aerial.jpg

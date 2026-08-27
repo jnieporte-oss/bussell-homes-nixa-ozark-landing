@@ -1,0 +1,11 @@
+200 https://bussell-homes.com/available-homes-interest/
+200 https://bussell-homes.com/floor-plans/
+200 https://bussell-homes.com/privacy-policy
+200 https://bussellhomes.lotvue.com/marketing/Forest%20Heights/
+200 https://bussellhomes.lotvue.com/marketing/Valley%20Ridge%20Estates
+404 https://fonts.googleapis.com
+200 https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Montserrat:wght@400;500;600;700;800&display=swap
+404 https://fonts.gstatic.com
+403 https://js-na2.hsforms.net
+200 https://js-na2.hsforms.net/forms/embed/v2.js
+200 https://maps.app.goo.gl/7n2EV4xkZCYTbaHt9

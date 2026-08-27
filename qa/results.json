@@ -1,0 +1,182 @@
+[
+  {
+    "label": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "document": {
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 10117
+    },
+    "brokenImages": [],
+    "imageCount": 14,
+    "hubspotForms": 1,
+    "primaryCtas": 4,
+    "consentCheckedByDefault": false,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "hero-image",
+        "right": 1454,
+        "left": -14
+      }
+    ],
+    "footerVisible": true,
+    "formReadyDuringAutomatedRun": false
+  },
+  {
+    "label": "desktop-filter",
+    "visibleHomeCards": 3
+  },
+  {
+    "label": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "document": {
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "scrollHeight": 16803
+    },
+    "brokenImages": [],
+    "imageCount": 14,
+    "hubspotForms": 1,
+    "primaryCtas": 4,
+    "consentCheckedByDefault": false,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "hero-image",
+        "right": 394,
+        "left": -4
+      },
+      {
+        "tag": "TABLE",
+        "className": "comparison-table",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "THEAD",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TH",
+        "className": "",
+        "right": 494,
+        "left": 186
+      },
+      {
+        "tag": "TH",
+        "className": "",
+        "right": 775,
+        "left": 494
+      },
+      {
+        "tag": "TBODY",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 494,
+        "left": 186
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 775,
+        "left": 494
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 494,
+        "left": 186
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 775,
+        "left": 494
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 494,
+        "left": 186
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 775,
+        "left": 494
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 494,
+        "left": 186
+      },
+      {
+        "tag": "TD",
+        "className": "",
+        "right": 775,
+        "left": 494
+      },
+      {
+        "tag": "TR",
+        "className": "",
+        "right": 775,
+        "left": 15
+      }
+    ],
+    "footerVisible": true,
+    "formReadyDuringAutomatedRun": false
+  },
+  {
+    "label": "mobile-menu",
+    "open": true
+  },
+  {
+    "label": "mobile-primary-cta",
+    "leadFormInViewport": true
+  }
+]
